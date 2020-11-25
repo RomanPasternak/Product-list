@@ -1,0 +1,10 @@
+.list-item-label {
+    font-size: large;
+    line-height: 35px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.list-item .have .list-item-label{
+    text-decoration: line-through;
+}
